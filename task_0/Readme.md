@@ -6,5 +6,5 @@
   </p>
 <hr>
     <p align="center">
-    <img src=""/>
+    <img src="ckb_indexer.png"/>
   </p>
